@@ -13,6 +13,9 @@
 
 ## Команда
 [Лев](https://github.com/LHLHLHE) - backend development
+
 [Герман](https://github.com/tinkofoxil) - backend development
+
 [Артем](https://github.com/TerrifyingAnt) - android development
+
 [Даниил](https://github.com/NyakShoot1) - android development
